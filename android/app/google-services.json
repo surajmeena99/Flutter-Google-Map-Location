@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "68500172732",
-    "project_id": "ict-app99",
-    "storage_bucket": "ict-app99.appspot.com"
+    "project_number": "project_number",
+    "project_id": "project_id",
+    "storage_bucket": "storage_bucket"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:68500172732:android:1b99b5f4137090b16885b9",
+        "mobilesdk_app_id": "mobilesdk_app_id",
         "android_client_info": {
-          "package_name": "com.example.ict_app"
+          "package_name": "package_name"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAh07IVsXn7x__WYAN29UrjgmcTrAS346Q"
+          "current_key": "current_key"
         }
       ],
       "services": {
