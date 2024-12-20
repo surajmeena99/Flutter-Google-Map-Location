@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAh07IVsXn7x__WYAN29UrjgmcTrAS346Q',
-    appId: '1:68500172732:android:1b99b5f4137090b16885b9',
-    messagingSenderId: '68500172732',
-    projectId: 'ict-app99',
-    storageBucket: 'ict-app99.appspot.com',
+    apiKey: 'apiKey',
+    appId: 'appId',
+    messagingSenderId: 'messagingSenderId',
+    projectId: 'projectId',
+    storageBucket: 'storageBucket',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDtIK0a0Wp6RtioKAiIZs4hdJWMCYFw_bw',
-    appId: '1:68500172732:ios:b290b4a27f81d2786885b9',
-    messagingSenderId: '68500172732',
-    projectId: 'ict-app99',
-    storageBucket: 'ict-app99.appspot.com',
-    iosBundleId: 'com.example.ictApp',
+    apiKey: 'apiKey',
+    appId: 'appId',
+     messagingSenderId: 'messagingSenderId',
+    projectId: 'projectId',
+    storageBucket: 'storageBucket',
+    iosBundleId: 'iosBundleId',
   );
 }
