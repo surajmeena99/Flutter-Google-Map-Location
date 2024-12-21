@@ -1,4 +1,4 @@
-# ict_app
+# Google Map Integration
 
 A new Flutter project.
 
